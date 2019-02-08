@@ -1,4 +1,4 @@
-# Design Challenge: Spring '19
+# Penn Labs Design Challenge
 
 Welcome to the Penn Labs Spring '19 Design Challenge!
 
@@ -9,8 +9,6 @@ We want you to take a look at Penn Course Search, a product acquired by Penn Lab
 Treat this assignment as if you're a designer working with product managers and developers. Your deliverable will have to communicate core functionality of the product to PMs, and design components to developers. 
 
 ## **What are we assessing?**
-
----
 
 This project will help us understand your design thinking as well as your familiarity with tactical execution, which is crucial for designing products with cross-functional teams. 
 
