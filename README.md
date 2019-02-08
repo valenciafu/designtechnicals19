@@ -6,7 +6,7 @@ Welcome to the Penn Labs Spring '19 Design Challenge!
 
 We want you to take a look at Penn Course Search, a product acquired by Penn Labs. We are adding it to our Penn Course suite along with Penn Course Review and Penn Course Alert. On Penn Course Search, students can filter and search for courses, view simplified ratings, and create mock schedules. 
 
-Treat this assignment as if you're a designer working with product managers and developers. Your deliverable will have to communicate core functionality of the product to PMs, and design components to developers. 
+Treat this assignment as if you're a designer working with product managers and developers. Your deliverable will have to communicate core functionality of the product to PMs, and communicate the flow and design of the product to developers. 
 
 ## **What are we assessing?**
 
@@ -18,8 +18,6 @@ This project will help us understand your design thinking as well as your famili
 
 ## Context
 
----
-
 Let's be real: how painful is making mock schedules on Penn InTouch while toggling between your academic planning worksheet, course listings on multiple departmental websites, and any other planning documents you made yourself?
 
 Registration is a complex process where students have to think about major requirements, course/professor ratings, and course offerings. All this data comes from a variety of different sources and is not leveraged to create any easy-to-use tools. Students would benefit from features such as comprehensive search filtering, integrated ratings, and a sleek mock scheduler.
@@ -29,8 +27,6 @@ To this end, Labs recently acquired Penn Course Search (the name is not set in s
 [PennCourseSearch](https://penncoursesearch.com/)
 
 # Deliverables
-
----
 
 Think about all the information students need when they go through the registration process. (Re)design a website to help them do this more efficiently. Market this product to increase user adoption.
 
@@ -52,8 +48,6 @@ Finally, here are a few things we want you to remember when designing:
 
 # *Suggested* tools
 
----
-
 Sketch, Adobe Suite, InVision, Figma, HTML/CSS. But really, you're free to use whatever you're most comfortable with! 
 
 [Penn Labs style guide](https://drive.google.com/file/d/1auGLpo7P1IidLidB3erCN-XxDAh75Ko_/view). 
@@ -62,15 +56,11 @@ Sketch, Adobe Suite, InVision, Figma, HTML/CSS. But really, you're free to use w
 
 # Submission
 
----
-
 Congratulations - you've completed the design challenge 🎉
 
 By **8 am on Monday 2/11,** email your deliverable to **contact@pennlabs.org** with the subject line: "DESIGN APPLICATION: *YOUR_NAME_HERE".* If your file is big, 
 
 # Frequently Asked Questions
-
----
 
 - **I have a clarification question / lot of other questions / need help.**
 
