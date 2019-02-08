@@ -4,8 +4,6 @@ Welcome to the Penn Labs Spring '19 Design Challenge!
 
 ## Introduction
 
----
-
 We want you to take a look at Penn Course Search, a product acquired by Penn Labs. We are adding it to our Penn Course suite along with Penn Course Review and Penn Course Alert. On Penn Course Search, students can filter and search for courses, view simplified ratings, and create mock schedules. 
 
 Treat this assignment as if you're a designer working with product managers and developers. Your deliverable will have to communicate core functionality of the product to PMs, and design components to developers. 
